@@ -1,4 +1,4 @@
 # Profile-Card
-using Javascript , HTML, CSS
+This is a profile card. It is responsive on all devices from small to large. using Javascript , HTML, CSS
 
 [Click here to see the Project](https://mominur-emon.github.io/Profile-Card/)
